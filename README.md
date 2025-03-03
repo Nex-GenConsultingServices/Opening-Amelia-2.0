@@ -1,17 +1,23 @@
 # Opening-Amelia-2.0
 
-Amelia AI 2.0
-
 DESCRIPTION
-Amelia 1.0 was a class project conducted by another student.
-This is the new and improved Amelia 2.0. This chatbot is still under development but has some interesting features. It can do math questions, remember your name, have better input recognition ect.
+Amelia 1.0 was a class project conducted by myself and then later on in the development I joined forces with @Redlook096 and started to develop Amelia 1.0 faster.
+
+Amelia 2.0 is the new and improved version of Amelia 1.0 and has new and improved features that are interesting. The new features that Amelia can do include:
+- Answering Math Equations
+- Remember your name
+- Have better input Recognition
+- Connection to the Internet (We are currently working on adding this Feature)
+- ETC
+
+Unfortunately Amelia 2.0 is still under development and therefore is unable to be used yet.
 
 PREREQUISITES
--Have Python3 installed on your machine
--Using Windows 10 or later
--Using Mac OS
--Using Debian Linux (Using either windows, linux or Mac OS)
--Running on at least 4GB ram and 1GB storage
+- Have Python3 installed on your machine
+- Using Windows 10 or later
+- Using Mac OS
+- Using Debian Linux (Using either windows, linux or Mac OS)
+- Running on at least 4GB ram and 1GB storage
 
 WINDOWS - SETUP
 1) Go to this link and install your GIT version https://git-scm.com/downloads/win
